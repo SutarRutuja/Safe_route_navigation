@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405782159201",
+    "project_id": "gosafefinal",
+    "storage_bucket": "gosafefinal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405782159201:android:e72c9a585dbd46b4c1af20",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCkS8bTFhtIF6z7nuyX4hmwTRk0g6iy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
