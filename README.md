@@ -36,7 +36,12 @@
     <li><strong>Geolocator Plugin:</strong> To access device location and manage GPS permissions.</li>
     <li><strong>URL Launcher / Telephony APIs:</strong> To initiate emergency calls from within the app.</li>
   </ul>
+   <hr>
 
+  <h2>📱 Demo</h2>
+<li><a href="https://drive.google.com/file/d/1vo1J0L4F-hY4Gm3RneU_lmScY8FkNRlp/view?usp=drive_link" target="_blank">Demo Video</a></li>
+
+    
   <hr>
 
   <h2>🚀 Getting Started</h2>
